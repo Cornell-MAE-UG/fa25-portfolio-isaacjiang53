@@ -1,70 +1,65 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Isaac Jiang -CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Isaac Jiang-Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ij53@cornell.edu](mailto:ij53@cornell.edu) | | | **Phone:** +929-503-7177
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanical engineering. Passionate about renewable energy and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.3/4.0 | Graduation: 05, 2028
 
-- **[High School Name]**  
+- **[East-West School of International Studies]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [06, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, Onshape  
+- **Programming:** Python, JavaScript  
+- **Tools:** 3D Printing 
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Linear Actuator Design]**:  
+  *[Create a 2D linkage mechanism within a constrained space (150cm x 50cm) using a specific set of components: a rigid bar, three pin supports, and a linear actuator.]*  
+  - Created a design supported by mathematical calculations.
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Queens College] - Mechanical Engineering Intern**  
+  [June, 2025] - [Aug, 2025]  
+  - Assisted in the research and design of an automatic recirculating sump system for a new fish tank facility that can support up to 21 individual fish tanks. Designed and assembled a fully functioning PVC piping system for the circulation of water into the return and the drainage of water within the whole system. Utilized Fusion 360 to model a sensor float that housed sensors that monitor the health of the water within the circulating system. Worked closely with the Principal Investigator, lead Engineering Technician, and co-interns throughout the whole research and design process.
+  
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of [AguaClara Project Team]  
+- Volunteer for [AguaClara Project Team]  
 
 ---
 
