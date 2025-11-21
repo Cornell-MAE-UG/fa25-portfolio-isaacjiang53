@@ -3,7 +3,8 @@ layout: project
 title: Heat exchanger Lab
 description: Exploring the performance of Heat exchangers
 technologies: [Experimental Data Collection, Lab apparatus]
-image: IMG20251112112041
+pdf: assets/Heat exchanger Project.pdf
+image: Heat Exchanger image
 ---
 
 
