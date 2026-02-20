@@ -1,3 +1,8 @@
+--- 
+layout: project
+title: Lantern Fly Eradication Unit
+--- 
+
 <p align="center">
   <b>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</b><br>
   <b>Lantern Fly Eradication Unit</b>
