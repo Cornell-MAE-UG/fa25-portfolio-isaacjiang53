@@ -9,7 +9,6 @@
 
 During mechanical grape harvest, spotted lantern flies (SLF) remain on the vines and can be collected with the fruit, contaminating loads. Even minimal contamination is unacceptable: as few as 1–2 SLFs (~0.5–1 g each) can contaminate a 1000 g core sample, triggering shipment rejection. With deliveries occurring every 10 minutes at roughly 22 tons per load, a single rejected shipment results in substantial product loss, contributing to an estimated $14.3 million of damages across the Lake Erie and Finger Lakes regions in the first three years of infestation. Current solutions, such as chemical treatments or post-harvest separation, are either ineffective during active harvest, reduce yield, or are operationally inefficient. The challenge is therefore to deter SLF from vines before or during harvest, or to separate them from harvested material, without damaging grape quality or reducing yield.
 
----
 
 <p align="center">
   <b>Why This Matters to the End-User</b>
@@ -17,7 +16,6 @@ During mechanical grape harvest, spotted lantern flies (SLF) remain on the vines
 
 Solving this problem would allow vineyards to avoid yield loss from post-harvest washing, reduce SLF contamination in harvested loads, and eliminate the need for additional chemical treatments during a critical harvest window. By preventing shipment rejections and harvest slowdowns, the solution would preserve grape quality, protect the winery’s reputation, and reduce significant economic losses.
 
----
 
 <p align="center">
   <b>Proposed Directions</b>
@@ -27,7 +25,6 @@ Solving this problem would allow vineyards to avoid yield loss from post-harvest
 
 **Bristles as a Filter** — Install a system of brush bristles along the inner conveyor of the harvester to mechanically filter SLFs from grapes immediately after harvest. The bristles would comb over the harvested material, allowing grapes and juice to pass while removing SLFs from the harvest. We would prototype this by designing a brush and running it over grapes with flour or another substance on them. Key risks/unknowns include whether the bristles can reliably filter out SLFs without blocking or damaging grapes, and whether they are durable enough for long-term use. Effective implementation would require experimentation with bristle density and spacing.
 
----
 
 <p align="center">
   <b>Our Questions</b>
@@ -39,7 +36,6 @@ Solving this problem would allow vineyards to avoid yield loss from post-harvest
 * **What are the constraints to the modification of the harvester?** — Ensures feasibility of attaching a tank to the front of the harvester.
 * **Is there space in the internal compartment of most grape harvesters to add enough bristles to be an effective filter?** — Determines whether we move forward with the bristle solution.
 
----
 
 <p align="center">
   <b>Works Cited</b>
