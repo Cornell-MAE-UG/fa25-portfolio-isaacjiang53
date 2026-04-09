@@ -102,7 +102,7 @@ Cornell University. “Spotted SLFs Could Cost NYS Grape Industry Millions.” *
 <p align="center">
   <b>Prototype Sketch</b>
 </p>
-![Functional Prototype Sketch]({{ "/assets/images/prototype-sketch.png" | relative_url }}){: class="project-image" style="max-width: 100px; display: block; margin: 0 auto; float: none;"}
+![Functional Prototype Sketch]({{ "/assets/images/prototype-sketch.png" | relative_url }}){: class="project-image" style="max-width: 500px; display: block; margin: 0 auto; float: none;"}
 <br>
 
 <p align="center">
@@ -184,12 +184,7 @@ Our main goal of this iteration is to ensure our gear rotation system for gas di
 </p>
 Upon spinning the handle, the nozzle rotates with a 90 degrees free rotation due to the smooth rotation of the spur gears connected underneath.
 
-<div>
-  ![Prototype Test Left]({{ "/assets/images/prototype-test1.png" | relative_url }}){: class="project-image" style="width: 40%;"}
-  ![Prototype Test Right]({{ "/assets/images/prototype-test2.png" | relative_url }}){: class="project-image" style="width: 40%;"}
-</div>
-<div style="clear: both;"></div>
-<br>
-
+![Prototype Test 1]({{ "/assets/images/prototype-test1.png" | relative_url }}){: class="project-image" style="max-width: 500px; display: block; margin: 0 auto; float: none;"}
+![Prototype Test 2]({{ "/assets/images/prototype-test2.png" | relative_url }}){: class="project-image" style="max-width: 500px; display: block; margin: 0 auto; float: none;"}
 
 [PDF of assignment:]({{"assets/MAE 2250_ODP_5_ Functional Prototype - Google Docs.pdf" | relative_url}})
