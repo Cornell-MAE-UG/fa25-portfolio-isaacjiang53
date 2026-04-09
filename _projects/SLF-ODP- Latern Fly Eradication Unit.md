@@ -129,40 +129,40 @@ We need arrows in assembly for movement
   <b>Design Testing & Outcomes</b>
 </p>
 
-<b>Test 1:<b> Rotation Smoothness
-<b>Part tested:<b> Gears
-<b>What it tests for:<b> Whether the handle-driven gears rotate the nozzle smoothly without binding, slipping, or excessive friction
-<b>How we tested it:<b> Handle was rotated through desired range of motion while observing gear motion and checking for slip, jerky motion, or interference
-<b>Test results:<b> Before applying constraints to the range of motion, we rotated the gears through 20 full rotations of 360 degrees. Throughout the test, there was no slippage or binding of the gear teeth.
-<b>Conclusion for next iteration:<b> While we did not see any slipping/binding, we noted that the gears must be perfectly placed to achieve that. To provide slight room for error, if we re-fabricate the gears we will increase the gear tooth height by 5mm.
+Test 1: Rotation Smoothness
+Part tested: Gears
+What it tests for: Whether the handle-driven gears rotate the nozzle smoothly without binding, slipping, or excessive friction
+How we tested it: Handle was rotated through desired range of motion while observing gear motion and checking for slip, jerky motion, or interference
+Test results: Before applying constraints to the range of motion, we rotated the gears through 20 full rotations of 360 degrees. Throughout the test, there was no slippage or binding of the gear teeth.
+Conclusion for next iteration: While we did not see any slipping/binding, we noted that the gears must be perfectly placed to achieve that. To provide slight room for error, if we re-fabricate the gears we will increase the gear tooth height by 5mm.
 
-<b>Test 2:<b> Aiming Range
-<b>Part tested:<b> Tube/Nozzle
-<b>What it tests for:<b> Whether gear system allows tube/nozzle to rotate through motion required to cover desired volumetric space by the gas
-<b>How we tested it:<b> Handle was turned from one extreme to the other and total angular rotation of the nozzle was measured
-<b>Test results:<b> The gear system completed 10 full back-and-forth cycles. With the constraints we applied, we achieved a range of motion of 90 degrees. There were 0 instances of slipping or binding by the gear teeth during the test, and the nozzle was able to achieve the range of motion without exhibiting any significant stress.
-<b>Conclusion for next iteration:<b> Our method of constraining the gears was effective. However, to make the design more robust, we will increase the diameter of the wooden cylinder constraints and use an aluminum base instead of wood.
+Test 2: Aiming Range
+Part tested: Tube/Nozzle
+What it tests for: Whether gear system allows tube/nozzle to rotate through motion required to cover desired volumetric space by the gas
+How we tested it: Handle was turned from one extreme to the other and total angular rotation of the nozzle was measured
+Test results: The gear system completed 10 full back-and-forth cycles. With the constraints we applied, we achieved a range of motion of 90 degrees. There were 0 instances of slipping or binding by the gear teeth during the test, and the nozzle was able to achieve the range of motion without exhibiting any significant stress.
+Conclusion for next iteration: Our method of constraining the gears was effective. However, to make the design more robust, we will increase the diameter of the wooden cylinder constraints and use an aluminum base instead of wood.
 
-<b>Test 3:<b> Repeated-Use Durability
-<b>Part tested:<b> Screws/Gears/Wooden Board assembly
-<b>What it tests for:<b> If mechanism maintains functionality after repeated use without loosening, slipping, or increasing friction
-<b>How we tested it:<b> Handle was cycled at a minimum of 20 times while observing changes in motion smoothness, gear interface, and structural stability 
-<b>Test results:<b> We cycled the gear through 20 full cycles at 20 RPM once the design was fully constructed, including constraints. The design held up with no clear signs of wear and tear.
-<b>Conclusion for next iteration:<b> While out initial design holds up, it is primarily constructed out of cheap wood and tape, meaning that it will lose significant strength over time. For our final design, we will convert the constraint shafts and the base to aluminum. We will also use screws to keep the gears in place instead of a wooden sticks.
+Test 3: Repeated-Use Durability
+Part tested: Screws/Gears/Wooden Board assembly
+What it tests for: If mechanism maintains functionality after repeated use without loosening, slipping, or increasing friction
+How we tested it: Handle was cycled at a minimum of 20 times while observing changes in motion smoothness, gear interface, and structural stability 
+Test results: We cycled the gear through 20 full cycles at 20 RPM once the design was fully constructed, including constraints. The design held up with no clear signs of wear and tear.
+Conclusion for next iteration: While out initial design holds up, it is primarily constructed out of cheap wood and tape, meaning that it will lose significant strength over time. For our final design, we will convert the constraint shafts and the base to aluminum. We will also use screws to keep the gears in place instead of a wooden sticks.
 
-<b>Test 4:<b> Tube Stability
-<b>Part tested:<b> Pipe Clamp
-<b>What it tests for:<b> Whether gas tube remains securely attached and doesn’t interfere with nozzle rotation during operation
-<b>How we tested it:v Rotate tube through full range of motion while observing clamps, checking for twisting, sagging, or resistance to rotation.
-<b>Test results:<b> Unfortunately we were not able to directly test this due to our clamp ordering mishap. We however can confidently say that the clamps would hold up in the design, because we taped evetrything down with painter’s tape, which is significantly weaker. Through all of our previous rotations, roughly 20 full cycles at varying speeds, the tape held up just fine. This makes us feel confident to say our clamps would hold up fine, due to the strength of all portions of the clamps being orders of magnitude stronger than the tape. The tape also did not prevent rotation, which means the clamps would not as well due to it being in a similar position and not interfering with the gear teeth. 
-<b>Conclusion for next iteration:<b> We are confident that once we have the correct clamps, they will be strong enough to hold our tube and handle down to demonstrate functionality of our design. 
+Test 4: Tube Stability
+Part tested: Pipe Clamp
+What it tests for: Whether gas tube remains securely attached and doesn’t interfere with nozzle rotation during operation
+How we tested it: Rotate tube through full range of motion while observing clamps, checking for twisting, sagging, or resistance to rotation.
+Test results: Unfortunately we were not able to directly test this due to our clamp ordering mishap. We however can confidently say that the clamps would hold up in the design, because we taped evetrything down with painter’s tape, which is significantly weaker. Through all of our previous rotations, roughly 20 full cycles at varying speeds, the tape held up just fine. This makes us feel confident to say our clamps would hold up fine, due to the strength of all portions of the clamps being orders of magnitude stronger than the tape. The tape also did not prevent rotation, which means the clamps would not as well due to it being in a similar position and not interfering with the gear teeth. 
+Conclusion for next iteration: We are confident that once we have the correct clamps, they will be strong enough to hold our tube and handle down to demonstrate functionality of our design. 
 
-<b>Test 5:<b> Structural Stability
-<b>Part tested:<b> Wood Mounting Board
-<b>What it tests for:<b> If wooden base remains rigid and maintains gear alignment during use
-<b>How we tested it:<b> Handle was rotated repeatedly while checking for board flexing, shifting, or misalignment of the gears
-<b>Test results:<b> We rotated the board through 10 full cycles at 20 RPM while the tube was held down to simulate stress from the harvester, applying a force on the mechanism of 10 Newtons. The wooden base exhibited no signs of flexing/bending, and the gears remained tightly connected with no slippage.
-<b>Conclusion for next iteration:<b> The fact that the base did not flex or shift shows that our design does not have misalignment or place significant stress on the base. That being said, we still plan to use an aluminum base in the next iteration to ensure durability over more extended periods of time.
+Test 5: Structural Stability
+Part tested: Wood Mounting Board
+What it tests for: If wooden base remains rigid and maintains gear alignment during use
+How we tested it: Handle was rotated repeatedly while checking for board flexing, shifting, or misalignment of the gears
+Test results: We rotated the board through 10 full cycles at 20 RPM while the tube was held down to simulate stress from the harvester, applying a force on the mechanism of 10 Newtons. The wooden base exhibited no signs of flexing/bending, and the gears remained tightly connected with no slippage.
+Conclusion for next iteration: The fact that the base did not flex or shift shows that our design does not have misalignment or place significant stress on the base. That being said, we still plan to use an aluminum base in the next iteration to ensure durability over more extended periods of time.
 
 
 
