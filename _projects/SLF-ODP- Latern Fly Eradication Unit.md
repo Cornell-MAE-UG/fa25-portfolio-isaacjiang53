@@ -165,7 +165,6 @@ Test results: We rotated the board through 10 full cycles at 20 RPM while the tu
 Conclusion for next iteration: The fact that the base did not flex or shift shows that our design does not have misalignment or place significant stress on the base. That being said, we still plan to use an aluminum base in the next iteration to ensure durability over more extended periods of time.
 
 
-
 <p align="center">
   <b>Success Criteria</b>
 </p>
@@ -184,7 +183,7 @@ Our main goal of this iteration is to ensure our gear rotation system for gas di
 </p>
 Upon spinning the handle, the nozzle rotates with a 90 degrees free rotation due to the smooth rotation of the spur gears connected underneath.
 
-![Prototype Test 1]({{ "/assets/images/prototype-test1.png" | relative_url }}){: class="project-image" style="max-width: 500px; display: block; margin: 0 auto; float: none;"}
-![Prototype Test 2]({{ "/assets/images/prototype-test2.png" | relative_url }}){: class="project-image" style="max-width: 500px; display: block; margin: 0 auto; float: none;"}
+![Prototype Test 1]({{ "/assets/images/prototype-test1.png" | relative_url }}){: class="project-image" style="max-width: 250px; display: block; margin: 0 auto; float: none;"}
+![Prototype Test 2]({{ "/assets/images/prototype-test2.png" | relative_url }}){: class="project-image" style="max-width: 250px; display: block; margin: 0 auto; float: none;"}
 
 [PDF of assignment:]({{"assets/MAE 2250_ODP_5_ Functional Prototype - Google Docs.pdf" | relative_url}})
