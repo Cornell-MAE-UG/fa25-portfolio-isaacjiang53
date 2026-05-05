@@ -206,8 +206,8 @@ Spotted Lantern Flies are wreaking havoc on the wine industry by contaminating g
 Our team developed a directional nozzle system designed to deter SLFs immediately prior to grape collection. The system uses a gear-driven mechanism connected to a handle, allowing the user to control the orientation of the nozzle to disperse gas across a larger area of the grape vine. The final design relies on an aluminum mounting base, two large 3D-printed gears, a rubber tube for the gas delivery line, and pipe clamps to secure the tube. 
 
 <div>
-  ![Harvester Context]({{ "/assets/images/harvester-front.jpg" | relative_url }}){: class="inline-image-l" style="width: 40%;"}
-  ![Final Prototype Setup]({{ "/assets/images/final-prototype.jpg" | relative_url }}){: class="inline-image-r" style="width: 40%;"}
+  ![Harvester Context]({{ "/assets/images/harvester-front.png" | relative_url }}){: class="inline-image-l" style="width: 40%;"}
+  ![Final Prototype Setup]({{ "/assets/images/final-prototype.png" | relative_url }}){: class="inline-image-r" style="width: 40%;"}
 </div>
 <div style="clear: both;"></div>
 <br>
@@ -265,6 +265,6 @@ For future work, tests must be conducted to determine a deterrent gas that is co
   <b>Poster Presentation</b>
 </p>
 
-![Poster Presentation]({{ "/assets/images/odp-poster.png" | relative_url }}){: class="project-image" style="max-width: 500px; display: block; margin: 20px auto; float: none;"}
+![Poster Presentation]({{ "/assets/images/odp-poster.png" | relative_url }}){: class="project-image" style="max-width: 100%; display: block; margin: 20px auto; float: none;"}
 <br>
 
