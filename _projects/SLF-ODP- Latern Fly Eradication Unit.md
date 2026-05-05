@@ -7,6 +7,7 @@ technologies: [CAD, 3D Printing, Mechanical Assembly]
 ## Table of Contents
 * [Client Pitch](#client-pitch)
 * [Functional Prototype](#functional-prototype)
+* [Final Prototype](#final-prototype)
 
 ---
 
@@ -187,3 +188,83 @@ Upon spinning the handle, the nozzle rotates with a 90 degrees free rotation due
 ![Prototype Test 2]({{ "/assets/images/prototype-test2.png" | relative_url }}){: class="project-image" style="max-width: 250px; display: block; margin: 0 auto; float: none;"}
 
 [PDF of assignment:]({{"assets/MAE 2250_ODP_5_ Functional Prototype - Google Docs.pdf" | relative_url}})
+
+
+
+<a name="final-prototype"></a>
+
+## Final Protoype
+
+<p align="center">
+  <b>Context & Problem</b>
+</p>
+Spotted Lantern Flies are wreaking havoc on the wine industry by contaminating grape harvests at a devastating scale. We chose to focus on pre-harvest and in-process mitigation rather than broader population control because it offers a more immediate and controllable intervention that can be integrated directly into existing operations. The design needed to operate in real-time alongside harvesting equipment, remain low-cost, mechanically simple, and ensure safety for both grapes and workers.
+
+<p align="center">
+  <b>Prototype Desgin</b>
+</p>
+Our team developed a directional nozzle system designed to deter SLFs immediately prior to grape collection. The system uses a gear-driven mechanism connected to a handle, allowing the user to control the orientation of the nozzle to disperse gas across a larger area of the grape vine. The final design relies on an aluminum mounting base, two large 3D-printed gears, a rubber tube for the gas delivery line, and pipe clamps to secure the tube. 
+
+<div>
+  ![Harvester Context]({{ "/assets/images/harvester-front.jpg" | relative_url }}){: class="inline-image-l" style="width: 40%;"}
+  ![Final Prototype Setup]({{ "/assets/images/final-prototype.jpg" | relative_url }}){: class="inline-image-r" style="width: 40%;"}
+</div>
+<div style="clear: both;"></div>
+<br>
+
+![Exploded CAD View]({{ "/assets/images/exploded-cad.png" | relative_url }}){: class="project-image" style="max-width: 500px; display: block; margin: 20px auto; float: none;"}
+<br>
+
+<p align="center">
+  <b>Implementation Strategy</b>
+</p>
+When placed into commission, the device will be attached to the front of the grape harvester to dispel gas into the harvesting chamber. While our prototype uses a manual handle to mimic motion, the final system would be connected to a servo motor to automate the delivery system. This allows SLFs to be removed at the point of harvest without interrupting the process or requiring significant changes to current operations.
+
+<p align="center">
+  <b>Key Testing Results</b>
+</p>
+
+1. **Rotational Reliability:** The gear-driven rotation system was tested through 50 full operating cycles across an approximately 90° range of motion. The gears rotated continuously without observable slipping, disengagement, or excessive friction.
+2. **Tubing Security:** Tested through 50 full cycles, the tube remained securely attached and did not interfere with nozzle rotation.
+3. **Structural Rigidity:** The aluminum mounting base showed no visible flexing, shifting, or gear misalignment after repeated cycling.
+4. **Flow Rate and Volume Loss (Water Substitute):**
+   * *Fixed Angle:* Displayed an average flow rate of 38.19 mL/s with an average volume loss of 6.2%.
+   * *Rotating Nozzle (±45°, 25 RPM):* Displayed an average flow rate of 29.32 mL/s with an average volume loss of 13.0%.
+
+<p align="center">
+  <b>Conclusion & Future Work</b>
+</p>
+We validated the mechanical feasibility of a localized deterrent delivery system designed for integration with harvesting equipment. Our prototype's gear-driven mechanism achieves the necessary range of motion to provide comprehensive coverage of the harvest zone. 
+
+For future work, tests must be conducted to determine a deterrent gas that is cost-effective and does not negatively affect grape harvest quality. Mechanically, we will focus on replacing the manual secondary gear and handle assembly with a high-precision servo motor to fully automate the deterrent delivery system.
+
+---
+
+<p align="center">
+  <b>Component List and Bill of Materials</b>
+</p>
+
+
+| Item | Source | Cost | Quantity |
+| :--- | :--- | :--- | :--- |
+| Steel Hex Head Screw for Wood Zinc-Plated, M12 Screw Size, 45 mm Long | McMaster 97498A172 | $9.43 | 1 |
+| Vibration-Damping Routing Clamp Zinc-Plated Steel with TPE Rubber Cushion, 7/8" ID | McMaster 11355T26 | $8.30 | 2 |
+| Black-Oxide Alloy Steel Socket Head Screw 10-24 Thread Size, 5/16" Long | McMaster 91864A032 | $6.12 | 1 |
+| Multipurpose 6061 Aluminum Bar 3/4" Thick x 4" Wide (Length = 1ft) | McMaster 8975K233 | $44.04 | 1 |
+| Air Hose EPDM Rubber, 1/2" ID, 7/8" OD, 300 PSI, Black (Length = 1ft) | McMaster 5304K28 | $2.56 | 1 |
+| Multipurpose 6061 Aluminum Rod 1/4" Diameter (Length = 1/2ft) | McMaster 8974K22 | $1.66 | 1 |
+| Multipurpose 6061 Aluminum Rod 1/2" Diameter (Length = 1/2ft) | McMaster 8974K28 | $1.83 | 1 |
+| 14-1/2 Degree Pressure Angle Plastic Gear Round/Machinable Bore, 12 Pitch, 48 Teeth | RPL | $3.90 | 2 |
+| Revised Gear with Screw Holes | RPL | $2.60 | 1 |
+| Revised Gear with Handle | RPL | $3.45 | 1 |
+| Gas Canister | RPL | $17.05 | 1 |
+| Plywood 1/4" | TDS | $3.00 | 1 |
+| **Total Cost** | | **$107.84** | |
+**
+
+<p align="center">
+  <b>Poster Presentation</b>
+</p>
+
+![Final Presentation Poster]({{ "/assets/images/odp-poster.jpg" | relative_url }}){: class="project-image" style="max-width: 100%; display: block; margin: 20px auto; float: none;"}
+<br>
