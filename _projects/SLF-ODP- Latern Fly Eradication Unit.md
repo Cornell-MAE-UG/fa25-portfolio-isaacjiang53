@@ -260,7 +260,6 @@ For future work, tests must be conducted to determine a deterrent gas that is co
 | Gas Canister | RPL | $17.05 | 1 |
 | Plywood 1/4" | TDS | $3.00 | 1 |
 | **Total Cost** | | **$107.84** | |
-**
 
 <p align="center">
   <b>Poster Presentation</b>
