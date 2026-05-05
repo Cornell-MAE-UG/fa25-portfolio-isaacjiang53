@@ -265,5 +265,5 @@ For future work, tests must be conducted to determine a deterrent gas that is co
   <b>Poster Presentation</b>
 </p>
 
-![Final Presentation Poster]({{ "/assets/images/odp-poster.jpg" | relative_url }}){: class="project-image" style="max-width: 100%; display: block; margin: 20px auto; float: none;"}
+![Final Presentation Poster]({{ "/assets/images/odp-poster.png" | relative_url }}){: class="project-image" style="max-width: 100%; display: block; margin: 20px auto; float: none;"}
 <br>
